@@ -60,3 +60,17 @@ The [source file](src/gear_clean.svg) contains:
   by using union and difference operations
 - the original gear (with cutout),
   once as-is and once flipped horizontally
+
+## Files
+
+- new, clean source image \
+  (contains hidden parts, including shapes used for the construction) \
+  ![new, clean source image](src/gear_clean.svg)
+- partial gear
+  - SVG: ![SVG](res/media/img/gear_part.svg)
+  - PNG: ![PNG](res/assets/media/img/gear_part.png)
+- full gear
+  - SVG: ![SVG](res/media/img/gear_full.svg)
+  - PNG: ![PNG](res/assets/media/img/gear_full.png)
+- both gears
+  - SVG: ![SVG](res/media/img/gear_both.svg)
