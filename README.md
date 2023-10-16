@@ -17,7 +17,9 @@ SPDX-License-Identifier: CC-BY-SA-4.0
     https://custom-icon-badges.demolab.com/badge/-OSEG-555555.svg?logo=oseg_logo)](
     https://opensourceecology.de)
 
-- OSH: _Open Source Hardware_ (Machines and other things that free the user of the domination and control by the producer)
+- OSH: _Open Source Hardware_
+  (Machines and other things that free the user
+  of the domination and control by the producer)
 
 This repo hosts a **_clean_** reproduction of the well known
 [OSH gear logo](https://www.oshwa.org/open-source-hardware-logo/).
