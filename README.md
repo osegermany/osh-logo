@@ -6,8 +6,8 @@ SPDX-License-Identifier: CC-BY-SA-4.0
 
 # OSH (OSH) Logo - clean
 
-[![License](
-    https://img.shields.io/github/license/OSEGermany/osh-logo.svg?style=flat)](
+[![License: CC-BY-SA-4.0](
+    https://img.shields.io/badge/License-CC--BY--SA--4.0-blue.svg)](
     LICENSE)
 [![REUSE status](
     https://api.reuse.software/badge/github.com/OSEGermany/osh-logo)](
