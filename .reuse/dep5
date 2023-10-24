@@ -1,7 +1,7 @@
 Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 Upstream-Name: osh-logo
 Upstream-Contact: Robin Vobruba <hoijui.quaero@gmail.com>
-Source: https://github.com/OSEGermany/osh-logo
+Source: https://codeberg.org/oseg/osh-logo
 
 Files: res/assets/media/img/*.png
 Copyright:
